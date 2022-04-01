@@ -116,6 +116,7 @@ header {
     max-width: 522px;
     width: 100%;
     font-size: 22px;
+    margin-bottom: 5px;
 
 }
 
@@ -126,8 +127,17 @@ header {
     background-color: white;
     border-radius: 15px;
     color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10px;
 
 }
+
+.last-p {
+    padding-bottom: 15px;
+}
+
+
 
 #search-icon {
     max-width: 13px;
@@ -138,4 +148,88 @@ header {
 #site-search {
     border: none;
     font-size: 16px;
+}
+
+.where {
+    margin-left: 5px;
+    border-right: solid #B4C6EE 0.5px;
+}
+
+.date {
+    color: #7E7E7E;
+    font-size: 16px;
+}
+
+.check-in {
+    border-right: solid #B4C6EE 0.5px;
+    padding-right: 100px;
+
+}
+
+.Explore-button {
+    max-width: 190px;
+    width: 100%;
+    border-radius: 15px;
+    background-color: #4468E2;
+    display: flex;
+    align-items: center;
+}
+
+.check-out {
+    padding-right: 100px;
+
+}
+
+.Explore-button p {
+    margin-left: 32px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+.calms {
+    max-width: 103px;
+    width: 100%;
+    background-color: #EBF0FE;
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+.into-calms {
+    max-width: 369px;
+    width: 100%;
+}
+
+.big-words {
+    max-width: 154px;
+    width: 100px;
+    margin-top: 11px;
+}
+
+.small-words {
+    max-width: 275px;
+    width: 100%;
+    margin-top: 23px;
+}
+
+.page1 {
+    padding-top: 154px;
+    display: flex;
+    justify-content: center;
+}
+
+.connect {
+    padding: 7px 0;
+
+}
+
+.calms1 {
+    max-width: 103px;
+    width: 100%;
+    background-color: #EBF0FE;
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
 }
