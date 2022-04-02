@@ -325,3 +325,115 @@ h1 {
     justify-content: space-between;
     margin-top: 200px;
 }
+
+.page3 {
+    max-width: 1780px;
+    width: 100%;
+    margin-top: 264px;
+}
+
+.page-3-header {
+    display: flex;
+    justify-content: center;
+    max-width: 1780px;
+    width: 100%;
+    font-size: 40px;
+    margin-bottom: 73px;
+}
+
+.nopath {
+    max-width: 965px;
+    width: 100%;
+    position: relative;
+}
+
+.photos-together {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page3-both {
+    max-width: 785px;
+    width: 100%;
+}
+
+.on-nopath {
+    max-width: 468px;
+    width: 100%;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    margin-left: 249px;
+    margin-top: 194px;
+}
+
+.on-both1 {
+    font-size: 35px;
+    max-width: 360px;
+    width: 100%;
+    position: absolute;
+    bottom: 100px;
+    margin-left: 213px;
+    color: white;
+}
+
+.page3-both1 {
+    max-width: 785px;
+    width: 100%;
+    position: relative;
+}
+
+.on-both2 {
+    font-size: 35px;
+    max-width: 360px;
+    width: 100%;
+    position: absolute;
+    bottom: 100px;
+    margin-left: 213px;
+    color: white;
+}
+
+.page-4 {
+    max-width: 1780px;
+    width: 100%;
+    margin-top: 60px;
+    display: flex;
+
+}
+
+.page4-1 {
+    max-width: 918px;
+    width: 100%;
+}
+
+.page4-post {
+    display: flex;
+    font-size: 26px;
+}
+
+.page4-logo {
+    margin-right: 24.5px;
+}
+
+.page4-ender {
+    margin-top: 34px;
+    display: flex;
+    align-items: center;
+}
+
+.eder-right {
+    margin-left: 26px;
+}
+
+enders-light {
+    color: #848484;
+}
+
+.happy-costumers {
+    max-width: 1780px;
+    width: 100%;
+    font-size: 40px;
+    margin-left: 41%;
+    margin-top: 172px;
+
+}
