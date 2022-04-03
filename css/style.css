@@ -505,3 +505,8 @@ footer {
 .copyright {
     cursor: pointer;
 }
+
+.footer-icons {
+    max-width: 186px;
+    width: 100%;
+}

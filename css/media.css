@@ -1,0 +1,89 @@
+@media (max-width:1024px) {
+    .post {
+        max-width: 500px;
+    }
+
+    .page4-logo {
+        height: 20px;
+    }
+
+    .footer-icons {
+        display: flex;
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:1024px) {
+    .page-4 {
+        margin-left: 200px;
+    }
+
+    .happy-costumers {
+        margin-left: 200px;
+    }
+
+    .on-nopath {
+        margin: 0 0;
+        max-width: 300px;
+    }
+
+    #blogs {
+        margin-left: 300px;
+    }
+
+    .copyright {
+        display: flex;
+    }
+
+    footer {
+        margin-left: 200px;
+    }
+
+    .footer-icons {
+        display: none;
+    }
+
+    header {
+        margin-left: 200px
+    }
+
+    .whole-photodiv {
+        margin-left: 200px;
+
+    }
+
+    .into-calms {
+        margin-left: 50px;
+    }
+
+    .page1 {
+        margin-left: 180px;
+    }
+
+    .explorer {
+        display: none;
+
+    }
+
+    nav {
+        display: none;
+    }
+
+    h1 {
+        display: none;
+    }
+
+    .travel-to-explore {
+        display: none;
+    }
+
+    .recomended {
+        margin-left: 270px;
+    }
+
+    .second-ul {
+        margin-left: 200px;
+        max-width: 380px;
+        width: 100%;
+    }
+}
