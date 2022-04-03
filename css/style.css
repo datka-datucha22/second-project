@@ -435,3 +435,24 @@ enders-light {
     margin-top: 172px;
 
 }
+
+footer {
+    margin-top: 192PX;
+    max-width: 1780px;
+    width: 100%;
+    background-color: #E1E8F8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    border-radius: 18px;
+}
+
+.footer-nav {
+    max-width: 602px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+
+}
