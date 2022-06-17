@@ -14,8 +14,33 @@
 }
 
 @media (max-width:480px) {
-    .page-4 {
-        margin-left: 200px;
+    .posts {
+        max-width: 480px;
+        width: 100%;
+    }
+
+    .on-nopath {
+        margin: 0 auto;
+    }
+
+    .on-both1 {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .on-both2 {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .page3-img {
+        max-width: 480px;
+        width: 100%;
+    }
+
+    .posts-image {
+        max-width: 480px;
+        width: 100%;
     }
 
     .happy-costumers {
@@ -27,37 +52,12 @@
         max-width: 300px;
     }
 
-    #blogs {
-        margin-left: 300px;
-    }
-
     .copyright {
         display: flex;
     }
 
-    footer {
-        margin-left: 200px;
-    }
-
     .footer-icons {
         display: none;
-    }
-
-    header {
-        margin-left: 200px
-    }
-
-    .whole-photodiv {
-        margin-left: 200px;
-
-    }
-
-    .into-calms {
-        margin-left: 50px;
-    }
-
-    .page1 {
-        margin-left: 180px;
     }
 
     .explorer {
@@ -77,13 +77,16 @@
         display: none;
     }
 
-    .recomended {
-        margin-left: 270px;
-    }
-
     .second-ul {
-        margin-left: 200px;
         max-width: 380px;
         width: 100%;
+    }
+
+    .recomended {
+        margin: 0;
+    }
+
+    .page {
+        margin: 0 auto;
     }
 }
